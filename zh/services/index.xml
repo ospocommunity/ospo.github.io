@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Program on 开源项目办公室</title>
+    <link>https://ospo.events/zh/services/</link>
+    <description>Recent content in Program on 开源项目办公室</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://ospo.events/zh/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keynote</title>
+      <link>https://ospo.events/zh/services/accounting/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://ospo.events/zh/services/accounting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neutral</title>
+      <link>https://ospo.events/zh/services/tax-filing/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://ospo.events/zh/services/tax-filing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>banquet</title>
+      <link>https://ospo.events/zh/services/mergers/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://ospo.events/zh/services/mergers/</guid>
+      <description>I don&amp;rsquo;t know. eating and talking.</description>
+    </item>
+    
+    <item>
+      <title>Business Sales</title>
+      <link>https://ospo.events/zh/services/business-sales/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://ospo.events/zh/services/business-sales/</guid>
+      <description>you must care about this.</description>
+    </item>
+    
+    <item>
+      <title>Peer</title>
+      <link>https://ospo.events/zh/services/superannuation/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>https://ospo.events/zh/services/superannuation/</guid>
+      <description>who you kown?</description>
+    </item>
+    
+    <item>
+      <title>Business Advisory</title>
+      <link>https://ospo.events/zh/services/business-advisory/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://ospo.events/zh/services/business-advisory/</guid>
+      <description>what ever said.</description>
+    </item>
+    
+  </channel>
+</rss>
