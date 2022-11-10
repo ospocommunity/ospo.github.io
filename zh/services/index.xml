@@ -1,64 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Program on 开源项目办公室</title>
+    <title>活动日程 on 开源项目办公室</title>
     <link>https://ospo.events/zh/services/</link>
-    <description>Recent content in Program on 开源项目办公室</description>
+    <description>Recent content in 活动日程 on 开源项目办公室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://ospo.events/zh/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Keynote</title>
+      <title>主题演讲</title>
       <link>https://ospo.events/zh/services/accounting/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>https://ospo.events/zh/services/accounting/</guid>
-      <description></description>
+      <description>来自基金会、企业OSPO资深人士的洞察和观点</description>
     </item>
     
     <item>
-      <title>Neutral</title>
+      <title>中立</title>
       <link>https://ospo.events/zh/services/tax-filing/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>https://ospo.events/zh/services/tax-filing/</guid>
-      <description></description>
+      <description>保持开放 全程透明 坚守开源之道</description>
     </item>
     
     <item>
-      <title>banquet</title>
+      <title>晚宴和欢乐</title>
       <link>https://ospo.events/zh/services/mergers/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
       <guid>https://ospo.events/zh/services/mergers/</guid>
-      <description>I don&amp;rsquo;t know. eating and talking.</description>
+      <description>没有什么是吃饭的时候不能解决的</description>
     </item>
     
     <item>
-      <title>Business Sales</title>
+      <title>文创特色</title>
       <link>https://ospo.events/zh/services/business-sales/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
       <guid>https://ospo.events/zh/services/business-sales/</guid>
-      <description>you must care about this.</description>
+      <description>将自己认可的信条打印在衣服上
+标榜观点和表达至上</description>
     </item>
     
     <item>
-      <title>Peer</title>
+      <title>同行交流</title>
       <link>https://ospo.events/zh/services/superannuation/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
       <guid>https://ospo.events/zh/services/superannuation/</guid>
-      <description>who you kown?</description>
+      <description>你知道有多少在企业内推动开源的同行吗？
+来了就知道了。</description>
     </item>
     
     <item>
-      <title>Business Advisory</title>
+      <title>竞争与合作</title>
       <link>https://ospo.events/zh/services/business-advisory/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
       <guid>https://ospo.events/zh/services/business-advisory/</guid>
-      <description>what ever said.</description>
+      <description>共同分担
+利益优先
+面对未来挑战
+战略合作</description>
     </item>
     
   </channel>
