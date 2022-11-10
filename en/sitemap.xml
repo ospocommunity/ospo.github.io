@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ospo.events/work/fall-plaza/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://ospo.events/zh/work/fall-plaza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ospo.events/work/fall-plaza/"
-                />
-  </url><url>
     <loc>https://ospo.events/services/accounting/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
     <xhtml:link
@@ -28,18 +15,11 @@
                 href="https://ospo.events/services/accounting/"
                 />
   </url><url>
-    <loc>https://ospo.events/work/modern-hospital/</loc>
+    <loc>https://ospo.events/work/strategic-sponsor/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://ospo.events/zh/work/modern-hospital/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ospo.events/work/modern-hospital/"
-                />
+  </url><url>
+    <loc>https://ospo.events/work/gold-sponsor/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
     <loc>https://ospo.events/services/tax-filing/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
@@ -54,18 +34,8 @@
                 href="https://ospo.events/services/tax-filing/"
                 />
   </url><url>
-    <loc>https://ospo.events/work/cargo-terminal/</loc>
+    <loc>https://ospo.events/work/partner/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://ospo.events/zh/work/cargo-terminal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ospo.events/work/cargo-terminal/"
-                />
   </url><url>
     <loc>https://ospo.events/posts/ospo-summit-2022/</loc>
     <lastmod>2022-11-02T15:01:58+08:00</lastmod>
