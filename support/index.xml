@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thanks Our Supporter!!  on OSPO Summit 2022</title>
+    <link>https://ospo.events/support/</link>
+    <description>Recent content in Thanks Our Supporter!!  on OSPO Summit 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://ospo.events/support/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source Organization Support</title>
+      <link>https://ospo.events/support/supported-org/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://ospo.events/support/supported-org/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Think tanks, academic support</title>
+      <link>https://ospo.events/support/partner/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://ospo.events/support/partner/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

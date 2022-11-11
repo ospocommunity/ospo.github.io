@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ospo.events/zh/support/supported-org/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/support/supported-org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/support/supported-org/"
+                />
+  </url><url>
     <loc>https://ospo.events/zh/work/strategic-sponsor-zh/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
@@ -36,6 +49,19 @@
   </url><url>
     <loc>https://ospo.events/zh/work/co-creation-sponsor/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>https://ospo.events/zh/support/partner/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/support/partner/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/support/partner/"
+                />
   </url><url>
     <loc>https://ospo.events/zh/posts/ospo-summit-2022/</loc>
     <lastmod>2022-11-02T15:01:58+08:00</lastmod>
@@ -204,6 +230,19 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://ospo.events/zh/services/"
+                />
+  </url><url>
+    <loc>https://ospo.events/zh/support/</loc>
+    <lastmod>2018-02-10T11:52:18+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/support/"
                 />
   </url><url>
     <loc>https://ospo.events/zh/categories/</loc>
