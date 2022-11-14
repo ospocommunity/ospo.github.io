@@ -63,6 +63,32 @@
                 href="https://ospo.events/support/partner/"
                 />
   </url><url>
+    <loc>https://ospo.events/posts/ospo-summit-2022-launched/</loc>
+    <lastmod>2022-11-14T10:47:07+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/posts/ospo-summit-2022-launched/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/posts/ospo-summit-2022-launched/"
+                />
+  </url><url>
+    <loc>https://ospo.events/posts/</loc>
+    <lastmod>2022-11-14T10:47:07+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/posts/"
+                />
+  </url><url>
     <loc>https://ospo.events/posts/ospo-summit-2022/</loc>
     <lastmod>2022-11-02T15:01:58+08:00</lastmod>
     <xhtml:link
@@ -74,19 +100,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ospo.events/posts/ospo-summit-2022/"
-                />
-  </url><url>
-    <loc>https://ospo.events/posts/</loc>
-    <lastmod>2022-11-02T15:01:58+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://ospo.events/zh/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ospo.events/posts/"
                 />
   </url><url>
     <loc>https://ospo.events/about/</loc>
