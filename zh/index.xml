@@ -49,10 +49,10 @@
     
     <item>
       <title>主题演讲</title>
-      <link>https://ospo.events/zh/services/accounting/</link>
+      <link>https://ospo.events/zh/services/keynote/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://ospo.events/zh/services/accounting/</guid>
+      <guid>https://ospo.events/zh/services/keynote/</guid>
       <description>LF APAC 总监杨轩 致辞 Ibrahim Haddad 博士，《Building and Managing an Open Source Program Office》 Ibrahim Haddad 博士 是 LF AI &amp;amp; Data 基金会 和PyTorch 基金会的执行总监
 Ana How TODO Group help build your own OSPO TODO Manger
 引领对话：OSPO 的本地化与全球化 外企开源文化 VS 本土开源文化 自下而上，还是自上而下 The role of foundation in today&amp;rsquo;s open source. Thierry， OIF Executive
@@ -62,10 +62,10 @@ What OpenChain can help OSPO？ OpenChain GM Shane Coughlan</description>
     
     <item>
       <title>Upstream First 成功实践</title>
-      <link>https://ospo.events/zh/services/tax-filing/</link>
+      <link>https://ospo.events/zh/services/upstream/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://ospo.events/zh/services/tax-filing/</guid>
+      <guid>https://ospo.events/zh/services/upstream/</guid>
       <description>中兴通讯 </description>
     </item>
     
@@ -80,10 +80,10 @@ What OpenChain can help OSPO？ OpenChain GM Shane Coughlan</description>
     
     <item>
       <title>OSPO 工作实践</title>
-      <link>https://ospo.events/zh/services/business-advisory/</link>
+      <link>https://ospo.events/zh/services/ospo-practice/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>https://ospo.events/zh/services/business-advisory/</guid>
+      <guid>https://ospo.events/zh/services/ospo-practice/</guid>
       <description></description>
     </item>
     
@@ -107,28 +107,28 @@ What OpenChain can help OSPO？ OpenChain GM Shane Coughlan</description>
     
     <item>
       <title>文创特色</title>
-      <link>https://ospo.events/zh/services/business-sales/</link>
+      <link>https://ospo.events/zh/services/creative/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
-      <guid>https://ospo.events/zh/services/business-sales/</guid>
+      <guid>https://ospo.events/zh/services/creative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>分组探讨与沟通</title>
-      <link>https://ospo.events/zh/services/superannuation/</link>
+      <link>https://ospo.events/zh/services/group-talking/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
-      <guid>https://ospo.events/zh/services/superannuation/</guid>
+      <guid>https://ospo.events/zh/services/group-talking/</guid>
       <description>工程：关注upstream first、降本增效、从996到711、DevSecOps、 技术债务的发现与偿还 适兕 分享各家OSPO 对开源安全的看法和做法 振华 管理/文化： 倾向于企业自身制度、开源文化、企业单位与开源共同体、HR、绩效衡量项 开源与企业竞争战略 张国锋 合规与资产：聚焦于：许可、供应链、SBOM、核算评估 合规与资产： 开源供应链安全 李响 攀爬阶梯： 能否跳跃发展、项目共同体构建、企业之间的合作推动参与者、成为开源世界的领导者 能不能跨越阶梯直接成为开源的领导者？ </description>
     </item>
     
     <item>
       <title>晚宴和欢乐</title>
-      <link>https://ospo.events/zh/services/mergers/</link>
+      <link>https://ospo.events/zh/services/dinner-party/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>https://ospo.events/zh/services/mergers/</guid>
+      <guid>https://ospo.events/zh/services/dinner-party/</guid>
       <description>没有什么是吃饭的时候不能解决的</description>
     </item>
     

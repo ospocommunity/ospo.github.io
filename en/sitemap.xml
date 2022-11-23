@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ospo.events/services/accounting/</loc>
+    <loc>https://ospo.events/services/keynote/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://ospo.events/zh/services/accounting/"
+                href="https://ospo.events/zh/services/keynote/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ospo.events/services/accounting/"
+                href="https://ospo.events/services/keynote/"
                 />
   </url><url>
     <loc>https://ospo.events/support/supported-org/</loc>
@@ -34,17 +34,17 @@
     <loc>https://ospo.events/work/gold-sponsor/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>https://ospo.events/services/tax-filing/</loc>
+    <loc>https://ospo.events/services/upstream/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://ospo.events/zh/services/tax-filing/"
+                href="https://ospo.events/zh/services/upstream/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ospo.events/services/tax-filing/"
+                href="https://ospo.events/services/upstream/"
                 />
   </url><url>
     <loc>https://ospo.events/work/partner/</loc>
@@ -141,56 +141,56 @@
                 href="https://ospo.events/pages/"
                 />
   </url><url>
-    <loc>https://ospo.events/services/mergers/</loc>
+    <loc>https://ospo.events/services/dinner-party/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://ospo.events/zh/services/mergers/"
+                href="https://ospo.events/zh/services/dinner-party/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ospo.events/services/mergers/"
+                href="https://ospo.events/services/dinner-party/"
                 />
   </url><url>
-    <loc>https://ospo.events/services/business-sales/</loc>
+    <loc>https://ospo.events/services/creative/</loc>
     <lastmod>2018-11-28T15:15:26+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://ospo.events/zh/services/business-sales/"
+                href="https://ospo.events/zh/services/creative/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ospo.events/services/business-sales/"
+                href="https://ospo.events/services/creative/"
                 />
   </url><url>
-    <loc>https://ospo.events/services/superannuation/</loc>
+    <loc>https://ospo.events/services/group-talking/</loc>
     <lastmod>2018-11-28T15:14:54+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://ospo.events/zh/services/superannuation/"
+                href="https://ospo.events/zh/services/group-talking/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ospo.events/services/superannuation/"
+                href="https://ospo.events/services/group-talking/"
                 />
   </url><url>
-    <loc>https://ospo.events/services/business-advisory/</loc>
+    <loc>https://ospo.events/services/ospo-practice/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://ospo.events/zh/services/business-advisory/"
+                href="https://ospo.events/zh/services/ospo-practice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ospo.events/services/business-advisory/"
+                href="https://ospo.events/services/ospo-practice/"
                 />
   </url><url>
     <loc>https://ospo.events/contact/</loc>

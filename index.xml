@@ -9,11 +9,11 @@
     <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="https://ospo.events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Keynote</title>
-      <link>https://ospo.events/services/accounting/</link>
+      <link>https://ospo.events/services/keynote/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://ospo.events/services/accounting/</guid>
-      <description></description>
+      <guid>https://ospo.events/services/keynote/</guid>
+      <description>LF APAC Diector Hali Yung Welcome speech 《Building and Managing an Open Source Program Office》 Speaker info Dr. Ibrahim Haddad is Vice President of Strategic Programs (AI and Data) at the Linux Foundation. In this role, he leads the LF AI &amp;amp; Data Foundation and the PyTorch Foundation. ​​Throughout his career, Haddad held technology and portfolio management roles at Ericsson Research, the Open Source Development Labs, Motorola, Palm, Hewlett-Packard, the Linux Foundation, and Samsung Research.</description>
     </item>
     
     <item>
@@ -45,10 +45,10 @@
     
     <item>
       <title>Neutral</title>
-      <link>https://ospo.events/services/tax-filing/</link>
+      <link>https://ospo.events/services/upstream/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://ospo.events/services/tax-filing/</guid>
+      <guid>https://ospo.events/services/upstream/</guid>
       <description></description>
     </item>
     
@@ -111,37 +111,37 @@ Join US </description>
     
     <item>
       <title>banquet</title>
-      <link>https://ospo.events/services/mergers/</link>
+      <link>https://ospo.events/services/dinner-party/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>https://ospo.events/services/mergers/</guid>
+      <guid>https://ospo.events/services/dinner-party/</guid>
       <description>I don&amp;rsquo;t know. eating and talking.</description>
     </item>
     
     <item>
       <title>Business Sales</title>
-      <link>https://ospo.events/services/business-sales/</link>
+      <link>https://ospo.events/services/creative/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
-      <guid>https://ospo.events/services/business-sales/</guid>
+      <guid>https://ospo.events/services/creative/</guid>
       <description>you must care about this.</description>
     </item>
     
     <item>
       <title>Peer</title>
-      <link>https://ospo.events/services/superannuation/</link>
+      <link>https://ospo.events/services/group-talking/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
-      <guid>https://ospo.events/services/superannuation/</guid>
+      <guid>https://ospo.events/services/group-talking/</guid>
       <description>who you kown?</description>
     </item>
     
     <item>
       <title>Business Advisory</title>
-      <link>https://ospo.events/services/business-advisory/</link>
+      <link>https://ospo.events/services/ospo-practice/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>https://ospo.events/services/business-advisory/</guid>
+      <guid>https://ospo.events/services/ospo-practice/</guid>
       <description>what ever said.</description>
     </item>
     
