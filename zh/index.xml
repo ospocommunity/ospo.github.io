@@ -66,7 +66,10 @@ What OpenChain can help OSPO？ OpenChain GM Shane Coughlan</description>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>https://ospo.events/zh/services/upstream/</guid>
-      <description>中兴通讯 </description>
+      <description>分享题目： 企业拥抱开源历程 分享者 刘洁
+摘要 企业开源从使用到贡献的转变过程中，企业内部从战略、组织、开发流程、人才队伍上变化和适配过程
+分享题目： ZTE的上游实践 暨 Open Source Summit EU /LF Membership Summit 见闻 分享者 中兴通讯 胡捷
+摘要 </description>
     </item>
     
     <item>
@@ -84,7 +87,11 @@ What OpenChain can help OSPO？ OpenChain GM Shane Coughlan</description>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
       <guid>https://ospo.events/zh/services/ospo-practice/</guid>
-      <description></description>
+      <description>字节跳动 OSPO 构建过程及困难克服 分享者 张鑫
+信通院 OSPO 评估模型分享 （@郭雪@张一阳 15～20分钟分享）
+OpenRank 算法分配 —— 开源项目基于贡献值的激励模式 分享者 分享者 赵生宇，
+蚂蚁OSPO发展的感悟及挑战 分享者 Richard 边 ，蚂蚁开源办公室负责人
+实操分享：企业开源常见合规陷阱及常用工具 分享者 高琨，openChain董事会成员，开源雨林联合创始人，</description>
     </item>
     
     <item>
@@ -120,7 +127,14 @@ What OpenChain can help OSPO？ OpenChain GM Shane Coughlan</description>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
       <guid>https://ospo.events/zh/services/group-talking/</guid>
-      <description>工程：关注upstream first、降本增效、从996到711、DevSecOps、 技术债务的发现与偿还 适兕 分享各家OSPO 对开源安全的看法和做法 振华 管理/文化： 倾向于企业自身制度、开源文化、企业单位与开源共同体、HR、绩效衡量项 开源与企业竞争战略 张国锋 合规与资产：聚焦于：许可、供应链、SBOM、核算评估 合规与资产： 开源供应链安全 李响 攀爬阶梯： 能否跳跃发展、项目共同体构建、企业之间的合作推动参与者、成为开源世界的领导者 能不能跨越阶梯直接成为开源的领导者？ </description>
+      <description>如果您有什么想法，欢迎提交您的话话题。
+目前我们列举了一些大家非常关注的点，但这并不能限制我们的交流，请自由的交流，以下仅供启动时的牵引。
+注：每个小的话题都有一位掌控走向的主持角色，尚有几个话题暂无人认领，如果您有兴趣，编辑本文件，成为话事人。
+工程/效能 关注upstream first、降本增效、从996到711、DevSecOps等话题
+技术债务的发现与偿还 适兕 分享各家OSPO 对开源安全的看法和做法 振华 管理/文化 倾向于企业自身制度、开源文化、企业单位与开源共同体、HR、绩效衡量项
+开源与企业竞争战略 张国锋 OKR/KPI如何和开源共同体的自我激励融合？（虚位以待） 如何将开源文化引入现有企业？（虚位以待） 合规与资产 聚焦于：许可、供应链、SBOM、核算评估等
+合规与资产： 开源供应链安全 李响 如何以数字和管理层沟通和交流？（虚位以待） SBOM 除了列出当前许可之外，还有重要的统计功能（虚位以待） 企业开源战略/实践 能否跳跃发展、项目共同体构建、企业之间的合作推动参与者、成为开源世界的领导者
+能不能跨越阶梯直接成为开源的领导者？ （虚位以待） 开源企业自身项目之前是否需要在开源世界积攒资本？（虚位以待） </description>
     </item>
     
     <item>
