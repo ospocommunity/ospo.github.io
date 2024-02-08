@@ -86,6 +86,28 @@ CHAOSS 项目: 和 OSPO 共同进步 演讲摘要 CHAOSS 介绍 为什么说 CHA
     </item>
     
     <item>
+      <title>本地化和全球化</title>
+      <link>https://ospo.events/zh/homepage/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/zh/homepage/work/</guid>
+      <description>中国是特殊的，而开源是全球的。我们必须理性地认识，既要根据本地情况理解和落实，又要融入和影响世界！</description>
+    </item>
+    
+    <item>
+      <title>关于活动组织者</title>
+      <link>https://ospo.events/zh/homepage/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/zh/homepage/about/</guid>
+      <description>会议顾问 Linux Foundation APAC, TODO Group, OpenInfra Foundation
+首届会议主席 郁志强，中国移动研究院 首席开源联络官，LF APAC 开源布道者
+江波，SegmentFault 思否 COO，Co-founder of Answer.dev
+执行团队 LF APAC 开源布道者 OSPO SIG
+会议筹备组成员 适兕、刘洁、马乐、郁志强、江波、马景贺、胡捷、赵文斌、张国锋、李昊阳、边思康、孙振华、李响、孟伟、杨爱林、张一阳</description>
+    </item>
+    
+    <item>
       <title>Upstream First 成功实践</title>
       <link>https://ospo.events/zh/services/upstream/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
@@ -279,6 +301,105 @@ OSPOlogy 是一门全新的学科与挑战，因为在这里所汇集的是企�
       
       <guid>https://ospo.events/zh/about/</guid>
       <description> </description>
+    </item>
+    
+    <item>
+      <title>常见问题</title>
+      <link>https://ospo.events/zh/guide/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/zh/guide/faq/</guid>
+      <description>常见问题</description>
+    </item>
+    
+    <item>
+      <title>关于深圳</title>
+      <link>https://ospo.events/zh/venue_travel/about_shenzhen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/zh/venue_travel/about_shenzhen/</guid>
+      <description>关于深圳</description>
+    </item>
+    
+    <item>
+      <title>会议场地</title>
+      <link>https://ospo.events/zh/venue_travel/venue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/zh/venue_travel/venue/</guid>
+      <description>会议场地</description>
+    </item>
+    
+    <item>
+      <title>交通指南</title>
+      <link>https://ospo.events/zh/venue_travel/getting_there/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/zh/venue_travel/getting_there/</guid>
+      <description>交通指南</description>
+    </item>
+    
+    <item>
+      <title>申请Visa Letter</title>
+      <link>https://ospo.events/zh/guide/visa_letter_request/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/zh/guide/visa_letter_request/</guid>
+      <description>申请Visa Letter</description>
+    </item>
+    
+    <item>
+      <title>申请Visa Letter</title>
+      <link>https://ospo.events/zh/venue_travel/visa_letter_request/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/zh/venue_travel/visa_letter_request/</guid>
+      <description>申请Visa Letter</description>
+    </item>
+    
+    <item>
+      <title>条款和条件</title>
+      <link>https://ospo.events/zh/guide/terms_and_conditions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/zh/guide/terms_and_conditions/</guid>
+      <description>条款和条件</description>
+    </item>
+    
+    <item>
+      <title>无障碍设施</title>
+      <link>https://ospo.events/zh/guide/accessibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/zh/guide/accessibility/</guid>
+      <description>无障碍设施</description>
+    </item>
+    
+    <item>
+      <title>下载演示文档模板</title>
+      <link>https://ospo.events/zh/guide/presentation_slides_template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/zh/guide/presentation_slides_template/</guid>
+      <description>下载演示文档模板</description>
+    </item>
+    
+    <item>
+      <title>向您所在公司阐述参会价值</title>
+      <link>https://ospo.events/zh/guide/convince_your_boss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/zh/guide/convince_your_boss/</guid>
+      <description>向您所在公司阐述参会价值</description>
+    </item>
+    
+    <item>
+      <title>行为准则</title>
+      <link>https://ospo.events/zh/guide/code_for_conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/zh/guide/code_for_conduct/</guid>
+      <description>行为准则</description>
     </item>
     
   </channel>

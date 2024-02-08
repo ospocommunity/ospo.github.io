@@ -36,6 +36,28 @@ About the speaker Dr. Ibrahim Haddad is Vice President of Strategic Programs (AI
     </item>
     
     <item>
+      <title>Localization and Globalization</title>
+      <link>https://ospo.events/homepage/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/homepage/work/</guid>
+      <description>China is special, whereas open source is global. We must perceive rationally, both to understand and implement according to the local situation, but also to integrate and influence the world.</description>
+    </item>
+    
+    <item>
+      <title>Who We Are</title>
+      <link>https://ospo.events/homepage/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/homepage/about/</guid>
+      <description>Consultants Linux Foundation APAC, TODO Group, OpenInfra Foundation
+Summit Chair Zhiqiang Yu, Open Source Evangelist
+Nadia Jiang, COO at SegmentFault, Co-founder of Answer.dev
+Executive Team OSPO SIG, LF APAC
+Preparatory Team Members Jiansheng Li, Jie Liu, Le Ma, Zhiqiang Yu, Nadia Jiang, Jinghe Ma, Jie Hu, Wenbin Zhao, Guofeng Zhang, Horace Li, Richard Bian, Zhenhua Sun, Xiang Li, Wei Meng, Ailin Yang, Yiyang Zhang</description>
+    </item>
+    
+    <item>
       <title>Gold parnter</title>
       <link>https://ospo.events/work/gold-sponsor/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
@@ -173,6 +195,105 @@ Join US </description>
       
       <guid>https://ospo.events/services/ospo-practice/</guid>
       <description>Introducing Open Organizational Culture Abstract: This talk is for those who understand that their organization must evolve and transform in light of changing market conditions and increased competition, and is looking to understand what change means from an organizational culture perspective. Attendees seek examples of organizational structures and cultures different from their own. In this presentation, Brian Proffitt will explain the nature, function, and importance of organizational culture, as well as describe the relationship between open source software communities and open organizational cultures.</description>
+    </item>
+    
+    <item>
+      <title>About Shenzhen</title>
+      <link>https://ospo.events/venue_travel/about_shenzhen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/venue_travel/about_shenzhen/</guid>
+      <description>This is the About Shenzhene page</description>
+    </item>
+    
+    <item>
+      <title>Accessibility</title>
+      <link>https://ospo.events/guide/accessibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/guide/accessibility/</guid>
+      <description>This is the Accessibility page</description>
+    </item>
+    
+    <item>
+      <title>Code for Conduct</title>
+      <link>https://ospo.events/guide/code_for_conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/guide/code_for_conduct/</guid>
+      <description>This is the Code for Conduct page</description>
+    </item>
+    
+    <item>
+      <title>Convince Your Boss</title>
+      <link>https://ospo.events/guide/convince_your_boss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/guide/convince_your_boss/</guid>
+      <description>This is the Convince Your Boss page</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://ospo.events/guide/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/guide/faq/</guid>
+      <description>This is the FAQ page</description>
+    </item>
+    
+    <item>
+      <title>Getting There</title>
+      <link>https://ospo.events/venue_travel/getting_there/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/venue_travel/getting_there/</guid>
+      <description>This is the Getting There page</description>
+    </item>
+    
+    <item>
+      <title>Presentation slides template</title>
+      <link>https://ospo.events/guide/presentation_slides_template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/guide/presentation_slides_template/</guid>
+      <description>This is the Presentation slides template page</description>
+    </item>
+    
+    <item>
+      <title>Terms &amp; Conditions</title>
+      <link>https://ospo.events/guide/terms_and_conditions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/guide/terms_and_conditions/</guid>
+      <description>This is the Terms &amp;amp; Conditions page</description>
+    </item>
+    
+    <item>
+      <title>Venue</title>
+      <link>https://ospo.events/venue_travel/venue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/venue_travel/venue/</guid>
+      <description>This is the Venue page</description>
+    </item>
+    
+    <item>
+      <title>Visa Letter Request</title>
+      <link>https://ospo.events/guide/visa_letter_request/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/guide/visa_letter_request/</guid>
+      <description>This is the Guide - Visa Letter Request page</description>
+    </item>
+    
+    <item>
+      <title>Visa Letter Request</title>
+      <link>https://ospo.events/venue_travel/visa_letter_request/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/venue_travel/visa_letter_request/</guid>
+      <description>This is the Visa Letter Request page</description>
     </item>
     
   </channel>

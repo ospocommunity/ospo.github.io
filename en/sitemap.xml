@@ -31,6 +31,30 @@
     <loc>https://ospo.events/work/strategic-sponsor/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
+    <loc>https://ospo.events/homepage/work/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/homepage/work/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/homepage/work/"
+                />
+  </url><url>
+    <loc>https://ospo.events/homepage/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/homepage/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/homepage/about/"
+                />
+  </url><url>
     <loc>https://ospo.events/work/gold-sponsor/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
@@ -154,6 +178,19 @@
                 href="https://ospo.events/posts/"
                 />
   </url><url>
+    <loc>https://ospo.events/conference_team/</loc>
+    <lastmod>2024-02-08T16:25:18+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/conference_team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/conference_team/"
+                />
+  </url><url>
     <loc>https://ospo.events/about/</loc>
     <lastmod>2018-12-06T09:29:16+10:00</lastmod>
     <xhtml:link
@@ -258,6 +295,19 @@
                 href="https://ospo.events/"
                 />
   </url><url>
+    <loc>https://ospo.events/homepage/</loc>
+    <lastmod>2018-02-10T11:52:18+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/homepage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/homepage/"
+                />
+  </url><url>
     <loc>https://ospo.events/services/</loc>
     <lastmod>2018-02-10T11:52:18+07:00</lastmod>
     <xhtml:link
@@ -269,6 +319,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ospo.events/services/"
+                />
+  </url><url>
+    <loc>https://ospo.events/schedule/</loc>
+    <lastmod>2018-02-10T11:52:18+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/schedule/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/schedule/"
                 />
   </url><url>
     <loc>https://ospo.events/work/</loc>
@@ -297,6 +360,30 @@
                 href="https://ospo.events/support/"
                 />
   </url><url>
+    <loc>https://ospo.events/venue_travel/about_shenzhen/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/venue_travel/about_shenzhen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/venue_travel/about_shenzhen/"
+                />
+  </url><url>
+    <loc>https://ospo.events/guide/accessibility/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/guide/accessibility/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/guide/accessibility/"
+                />
+  </url><url>
     <loc>https://ospo.events/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -309,6 +396,78 @@
                 href="https://ospo.events/categories/"
                 />
   </url><url>
+    <loc>https://ospo.events/guide/code_for_conduct/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/guide/code_for_conduct/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/guide/code_for_conduct/"
+                />
+  </url><url>
+    <loc>https://ospo.events/guide/convince_your_boss/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/guide/convince_your_boss/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/guide/convince_your_boss/"
+                />
+  </url><url>
+    <loc>https://ospo.events/guide/faq/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/guide/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/guide/faq/"
+                />
+  </url><url>
+    <loc>https://ospo.events/venue_travel/getting_there/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/venue_travel/getting_there/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/venue_travel/getting_there/"
+                />
+  </url><url>
+    <loc>https://ospo.events/guide/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/guide/"
+                />
+  </url><url>
+    <loc>https://ospo.events/guide/presentation_slides_template/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/guide/presentation_slides_template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/guide/presentation_slides_template/"
+                />
+  </url><url>
     <loc>https://ospo.events/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -319,6 +478,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ospo.events/tags/"
+                />
+  </url><url>
+    <loc>https://ospo.events/guide/terms_and_conditions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/guide/terms_and_conditions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/guide/terms_and_conditions/"
+                />
+  </url><url>
+    <loc>https://ospo.events/venue_travel/venue/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/venue_travel/venue/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/venue_travel/venue/"
+                />
+  </url><url>
+    <loc>https://ospo.events/venue_travel/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/venue_travel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/venue_travel/"
+                />
+  </url><url>
+    <loc>https://ospo.events/guide/visa_letter_request/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/guide/visa_letter_request/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/guide/visa_letter_request/"
+                />
+  </url><url>
+    <loc>https://ospo.events/venue_travel/visa_letter_request/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/zh/venue_travel/visa_letter_request/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/venue_travel/visa_letter_request/"
                 />
   </url>
 </urlset>

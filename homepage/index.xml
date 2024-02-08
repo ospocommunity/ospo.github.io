@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on OSPO 2nd Summit 2024</title>
+    <link>https://ospo.events/homepage/</link>
+    <description>Recent content in Home on OSPO 2nd Summit 2024</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://ospo.events/homepage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Localization and Globalization</title>
+      <link>https://ospo.events/homepage/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/homepage/work/</guid>
+      <description>China is special, whereas open source is global. We must perceive rationally, both to understand and implement according to the local situation, but also to integrate and influence the world.</description>
+    </item>
+    
+    <item>
+      <title>Who We Are</title>
+      <link>https://ospo.events/homepage/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/homepage/about/</guid>
+      <description>Consultants Linux Foundation APAC, TODO Group, OpenInfra Foundation
+Summit Chair Zhiqiang Yu, Open Source Evangelist
+Nadia Jiang, COO at SegmentFault, Co-founder of Answer.dev
+Executive Team OSPO SIG, LF APAC
+Preparatory Team Members Jiansheng Li, Jie Liu, Le Ma, Zhiqiang Yu, Nadia Jiang, Jinghe Ma, Jie Hu, Wenbin Zhao, Guofeng Zhang, Horace Li, Richard Bian, Zhenhua Sun, Xiang Li, Wei Meng, Ailin Yang, Yiyang Zhang</description>
+    </item>
+    
+  </channel>
+</rss>
