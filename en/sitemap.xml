@@ -37,5 +37,17 @@
                 hreflang="en"
                 href="https://ospo.events/en/tags.html"
                 />
+  </url><url>
+    <loc>https://ospo.events/en/schedule.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/schedule.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/en/schedule.html"
+                />
   </url>
 </urlset>

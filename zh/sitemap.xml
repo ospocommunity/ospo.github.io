@@ -13,5 +13,17 @@
                 hreflang="zh"
                 href="https://ospo.events/"
                 />
+  </url><url>
+    <loc>https://ospo.events/schedule.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/en/schedule.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/schedule.html"
+                />
   </url>
 </urlset>
