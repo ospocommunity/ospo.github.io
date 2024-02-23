@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Venue_travels on 第二届开源管理办公室年度峰会</title>
+    <link>https://ospo.events/venue_travel.html</link>
+    <description>Recent content in Venue_travels on 第二届开源管理办公室年度峰会</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="https://ospo.events/venue_travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>交通指南</title>
+      <link>https://ospo.events/venue_travel/getting_there.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/venue_travel/getting_there.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>会议场地</title>
+      <link>https://ospo.events/venue_travel/venue.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/venue_travel/venue.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>关于深圳</title>
+      <link>https://ospo.events/venue_travel/about_shenzhen.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ospo.events/venue_travel/about_shenzhen.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

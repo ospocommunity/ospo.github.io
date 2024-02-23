@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>大会介绍 on 第二届开源管理办公室年度峰会</title>
-    <link>https://ospo.events/</link>
-    <description>Recent content in 大会介绍 on 第二届开源管理办公室年度峰会</description>
+    <title>Guides on 第二届开源管理办公室年度峰会</title>
+    <link>https://ospo.events/guide.html</link>
+    <description>Recent content in Guides on 第二届开源管理办公室年度峰会</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://ospo.events/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="https://ospo.events/guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>申请 Visa Letter</title>
       <link>https://ospo.events/guide/visa_letter_request.html</link>
@@ -29,42 +29,6 @@
     </item>
     
     <item>
-      <title>交通指南</title>
-      <link>https://ospo.events/venue_travel/getting_there.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ospo.events/venue_travel/getting_there.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>会议场地</title>
-      <link>https://ospo.events/venue_travel/venue.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ospo.events/venue_travel/venue.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>会议赞助</title>
-      <link>https://ospo.events/sponsor.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ospo.events/sponsor.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>关于深圳</title>
-      <link>https://ospo.events/venue_travel/about_shenzhen.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ospo.events/venue_travel/about_shenzhen.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>向您所在公司阐述参会价值</title>
       <link>https://ospo.events/guide/convince_your_boss.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -79,15 +43,6 @@ CommunityOverCode Asia（前身为 ApacheCon Asia）是 Apache 软件基金会�
  了解公司所应用开源技术的最新进展：CommunityOverCode Asia 提供了高质量的 Keynote 主题演讲和众多技术分论坛，这可以让我们深入了解开源项目的最新进展，学习同业优秀的技术实践，从而帮助我们更好应用相关技术。我计划参加与我们正在进行的项目直接相关的议程，特别是 [插入特定项目或技术相关的内容]。 与行业领袖建立联系：CommunityOverCode Asia 邀请了来自全球的 Apache 软件基金会项目的开发人员。参与本届大会将有助于帮助我们洞察项目最新进展，和行业技术专家、项目开发人员及生态伙伴建立长期联系，并进行深入交流和合作。 关注和学习前沿技术动态：CommunityOverCode Asia 会议将使我们有机会深度了解 Apache 社区的新兴项目，以及国际社区所共同关注的前沿技术。这些知识对于保持我们团队的领先地位和维持我们的竞争优势至关重要。 高性价比的学习机会：CommunityOverCode Asia 的会议性价比很高，相较同类型会议门票价格很便宜，但回报颇丰。我正在寻求您的批准，用于支付 599 元人民币的 3 日参会门票以及差旅费用。这是业内最实惠的全球顶级会议之一，早鸟票还有额外折扣，因此我希望您能尽快批准我的申请。 综上所述，参加 CommunityOverCode Asia 不仅会增强我的专业知识，还将为我们的团队和项目带来很多帮助。如果您需要更多信息可以查看 CommunityOverCode Asia 大会官网。  期待您的回复，如有疑问请随时和我联系。
 Regards,
 [您的姓名]</description>
-    </item>
-    
-    <item>
-      <title>大会介绍</title>
-      <link>https://ospo.events/schedule.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ospo.events/schedule.html</guid>
-      <description></description>
     </item>
     
     <item>
