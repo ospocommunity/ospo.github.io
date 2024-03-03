@@ -146,6 +146,18 @@
                 href="https://ospo.events/guide/faq.html"
                 />
   </url><url>
+    <loc>https://ospo.events/support.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/en/support.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/support.html"
+                />
+  </url><url>
     <loc>https://ospo.events/guide/accessibility.html</loc>
     <xhtml:link
                 rel="alternate"

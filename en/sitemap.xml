@@ -158,6 +158,18 @@
                 href="https://ospo.events/en/sponsor.html"
                 />
   </url><url>
+    <loc>https://ospo.events/en/support.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/support.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/en/support.html"
+                />
+  </url><url>
     <loc>https://ospo.events/en/tags.html</loc>
     <xhtml:link
                 rel="alternate"
