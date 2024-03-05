@@ -74,6 +74,18 @@
                 href="https://ospo.events/en/"
                 />
   </url><url>
+    <loc>https://ospo.events/en/conference_team.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ospo.events/conference_team.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ospo.events/en/conference_team.html"
+                />
+  </url><url>
     <loc>https://ospo.events/en/guide/convince_your_boss.html</loc>
     <xhtml:link
                 rel="alternate"
